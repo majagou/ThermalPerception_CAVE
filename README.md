@@ -43,7 +43,9 @@ To shape the feeling of warmth and coldness, the project uses several key visual
 ## Author
 **Shiyi Gou**
 
-Master’s student in Human-Computer Interaction
+M.Sc. in Human-Computer Interaction
+
+B.Sc. in Informatics plus Computer Linguistics
 
 Focus areas: VR development, immersive experience design, perception research, and interactive systems
 
